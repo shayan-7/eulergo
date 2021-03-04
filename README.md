@@ -1,2 +1,2 @@
 # eulergo
-The solutions of projecteuler.net in Go
+The solutions of [euler](https://projecteuler.net) in Go
